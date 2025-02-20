@@ -5,6 +5,7 @@
 This repository contains the source code, prediction results for 'CamoFormer: Masked Separable Attention for Camouflaged Object Detection'. The technical report could be found at [arXiv](https://arxiv.org/abs/2212.06570). 
 The whole benchmark results can be found at [One Drive](https://mailnankaieducn-my.sharepoint.com/:f:/g/personal/bowenyin_mail_nankai_edu_cn/EmB36EZb_fdMvWGgKx2EalgBuQnj8AFifyR-ip7Jtkfwqg?e=nu6DJz), [Baidu Netdisk](https://pan.baidu.com/s/1k5CxYzcgizzJ4sRdAxBNlA?pwd=srtf), or [Google Drive](https://drive.google.com/drive/folders/1gsCeYtS9cwsMpTHQzkx81n4jsRK4LYdf?usp=sharing).
 
+Contributors: [2112529](https://github.com/2112529), [yinbow](https://github.com/yinbow)
 
 
 
@@ -100,6 +101,8 @@ Transformer-based models. ‘↑’: the higher the better, ‘↓’: the lower
 
 ## Acknowlegement
 Thanks [mczhuge](https://github.com/mczhuge) providing a friendly [codebase](https://github.com/mczhuge/ICON) for binary segmentation tasks and [Daniel Ji](https://github.com/GewelsJI) providing a good [Jittor codebase](https://github.com/GewelsJI/SINet-V2/tree/main/jittor_lib) for COD.  And our code is built based on them. 
+Thanks to [2112529](https://github.com/2112529) for his significant contributions and great effort in implementing the Jittor version of the code.
+
 
 
 
